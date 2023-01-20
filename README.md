@@ -56,3 +56,12 @@ Besides the development script `yarn run dev`, there are many more scripts set u
 - [React Graph Gallery](https://www.react-graph-gallery.com/)
 - [D3 in Action, The 3rd Edition](https://www.manning.com/books/d3js-in-action-third-edition)
 - [Fullstack D3 and Data Visualization](https://www.newline.co/fullstack-d3)
+  <br></br>
+
+## Contributing
+
+1. Fork it (<https://github.com/robcrock/d3-react-template/fork>)
+2. Create your feature branch (`git checkout -b feature/fooBar`)
+3. Commit your changes (`git commit -am 'Add some fooBar'`)
+4. Push to the branch (`git push origin feature/fooBar`)
+5. Create a new Pull Request
