@@ -5,6 +5,7 @@ When you have an idea and a data set ready to visualize, you are eager to go! Un
 In this README you will find sections for:
 
 - Installation
+- Getting Started
 - Credits
 
 ## Installation
@@ -23,7 +24,7 @@ With those applications, extension, and CLIs installed you can clone this reposi
 
 After running `yarn` to install all of the dependancies, you can run `yarn run dev` to spin up your dev server. You should now be able to open the app in your browser at this URL `http://127.0.0.1:5173/`
 
-Vite will handle the hot module reloading to keep what you're looking at in sync with the code you are writting.
+Vite will handle the hot module reloading to keep what you're looking at in sync with the code you are writing.
 
 ### Additional Scripts
 
