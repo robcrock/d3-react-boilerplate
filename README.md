@@ -25,9 +25,7 @@ With those applications, extension, and CLIs all installed you're ready to go. C
 
 ## Features
 
-One of the main motives behind this project was saving you time with the setup. That's because there is a good amount of it to stand up a proper repo for this kind of work.
-
-Of course, we could have excluded certain things to make the repository leaner, but I am erring on the side of adding more to improve the developer experience even further.
+One of the main motives behind this project was saving you time with the setup. That's because there is a good amount of it to stand up a proper repo for this kind of work. Of course, we could have excluded certain things to make the repository leaner, but I am erring on the side of adding more to improve the developer experience even further.
 
 What's currently included:
 
